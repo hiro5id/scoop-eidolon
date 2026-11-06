@@ -1,7 +1,7 @@
 Eidolon for Scoop
 ===
 
-The Scoop bucket of [Eidolon](https://github.com/hiro5id/eidolon-releases): it finds the copies and Live Photo pairs in a photo and video library by how they look, and you review them in your browser. Windows, x86-64. Latest version: 2026.11.2.
+The Scoop bucket of [Eidolon](https://github.com/hiro5id/eidolon-releases): it finds the copies and Live Photo pairs in a photo and video library by how they look, and you review them in your browser. Windows, x86-64. Latest version: 2026.11.3.
 
 ```powershell
 scoop bucket add eidolon https://github.com/hiro5id/scoop-eidolon   # once

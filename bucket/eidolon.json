@@ -1,12 +1,12 @@
 {
-    "version": "2026.11.2",
+    "version": "2026.11.3",
     "description": "Find copies and Live Photo pairs in a photo and video library by how they look; review them in the browser",
     "homepage": "https://github.com/hiro5id/eidolon-releases",
     "license": "Unknown",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/hiro5id/eidolon-releases/releases/download/v2026.11.2/eidolon-windows-x86_64.zip",
-            "hash": "ae6bb76cdc2ca5db2a8ed118f4cc539679b3722fd74369f5185fadaf3018181d"
+            "url": "https://github.com/hiro5id/eidolon-releases/releases/download/v2026.11.3/eidolon-windows-x86_64.zip",
+            "hash": "8e065dfc3342d788ca555225efd567e2bd608982d495802ac8d4327ec75db082"
         }
     },
     "extract_dir": "eidolon",
